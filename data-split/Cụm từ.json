@@ -1,0 +1,1132 @@
+{
+    "data": [
+        {
+            "word": "người nước ngoài",
+            "_word": "nguoi nuoc ngoai",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "foreigner",
+            "tl_en": "Noun"
+        },
+        {
+            "word": "nổi da gà",
+            "_word": "noi da ga",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "goosebumps",
+            "tl_en": "Noun"
+        },
+        {
+            "word": "cười nhếch mép",
+            "_word": "cuoi nhech mep",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "smirk",
+            "tl_en": "Verb"
+        },
+        {
+            "word": "cười vỡ bụng",
+            "_word": "cuoi vo bung",
+            "description": "Cười to và thành tràng dài mãi không thôi, đến mức như không thể nín nhịn được.",
+            "tl": "Cụm từ",
+            "word_en": "laugh out loud",
+            "tl_en": "Verb Phrase"
+        },
+        {
+            "word": "tham ăn",
+            "_word": "tham an",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "gluttonous",
+            "tl_en": "Adjective"
+        },
+        {
+            "word": "thèm rỏ dãi",
+            "_word": "them ro dai",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "mouthwatering",
+            "tl_en": "Adjective"
+        },
+        {
+            "word": "ngày Quốc tế phụ nữ 8/3",
+            "_word": "ngay quoc te phu nu 8/3",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "International Women's Day (March 8th)",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "ngày giải phóng thủ đô 10/10",
+            "_word": "ngay giai phong thu do 10/10",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Hanoi Liberation Day (October 10th)",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "ngày Giải phóng miền Nam 30/4",
+            "_word": "ngay giai phong mien nam 30/4",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Reunification Day (April 30th)",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "ngày Người khuyết tật Việt Nam 18/4",
+            "_word": "ngay nguoi khuyet tat viet nam 18/4",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Vietnamese People with Disabilities Day (April 18th)",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "ngày Người khuyết tật Thế giới 3/12",
+            "_word": "ngay nguoi khuyet tat the gioi 3/12",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "International Day of Persons with Disabilities (December 3rd)",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "ngày Phụ nữ Việt Nam 20/10",
+            "_word": "ngay phu nu viet nam 20/10",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Vietnamese Women's Day (October 20th)",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "ngày thương binh liệt sĩ 27/7",
+            "_word": "ngay thuong binh liet si 27/7",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "War Invalids and Martyrs' Day (July 27th)",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "ngày giỗ tổ Hùng Vương (âm lịch 10/3)",
+            "_word": "ngay gio to hung vuong (am lich 10/3)",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Hung Kings' Commemoration Day (10th day of the 3rd lunar month)",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "ngày Ngôn ngữ kí hiệu Quốc tế 23/9",
+            "_word": "ngay ngon ngu ki hieu quoc te 23/9",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "International Day of Sign Languages (September 23rd)",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "tuần lễ người Điếc thế giới",
+            "_word": "tuan le nguoi diec the gioi",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "International Week of the Deaf",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "ngày của Mẹ",
+            "_word": "ngay cua me",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Mother's Day",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "ngày của Cha",
+            "_word": "ngay cua cha",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Father's Day",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "ngày gia đình Việt Nam 28/6",
+            "_word": "ngay gia dinh viet nam 28/6",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Vietnamese Family Day (June 28th)",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "ngày thầy thuốc Việt Nam",
+            "_word": "ngay thay thuoc viet nam",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Vietnamese Doctors' Day",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "ngày thành lập quân đội nhân dân Việt Nam",
+            "_word": "ngay thanh lap quan doi nhan dan viet nam",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Vietnamese People's Army Founding Day",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "ti hí mắt",
+            "_word": "ti hi mat",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "squint",
+            "tl_en": "Verb"
+        },
+        {
+            "word": "tinh mắt",
+            "_word": "tinh mat",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "sharp-eyed",
+            "tl_en": "Adjective"
+        },
+        {
+            "word": "phải không?",
+            "_word": "phai khong?",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "right?",
+            "tl_en": "Tag Question"
+        },
+        {
+            "word": "cần không?",
+            "_word": "can khong?",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "need to?",
+            "tl_en": "Tag Question"
+        },
+        {
+            "word": "nên không?",
+            "_word": "nen khong?",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "should?",
+            "tl_en": "Tag Question"
+        },
+        {
+            "word": "sợ không?",
+            "_word": "so khong?",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "afraid?",
+            "tl_en": "Tag Question"
+        },
+        {
+            "word": "đẹp không? (người)",
+            "_word": "dep khong? (nguoi)",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "beautiful? (person)",
+            "tl_en": "Tag Question"
+        },
+        {
+            "word": "quả bầu hồ lô",
+            "_word": "qua bau ho lo",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "calabash",
+            "tl_en": "Noun"
+        },
+        {
+            "word": "một là",
+            "_word": "mot la",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "firstly",
+            "tl_en": "Adverb"
+        },
+        {
+            "word": "năm là",
+            "_word": "nam la",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "fifthly",
+            "tl_en": "Adverb"
+        },
+        {
+            "word": "một ít/ một chút",
+            "_word": "mot it/ mot chut",
+            "description": "Một phần nào đó, thường là rất nhỏ.",
+            "tl": "Cụm từ",
+            "word_en": "a little/ a bit",
+            "tl_en": "Quantifier"
+        },
+        {
+            "word": "muốn không?",
+            "_word": "muon khong?",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "want to?",
+            "tl_en": "Tag Question"
+        },
+        {
+            "word": "đẹp không?",
+            "_word": "dep khong?",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "beautiful?",
+            "tl_en": "Tag Question"
+        },
+        {
+            "word": "phó hiệu trưởng",
+            "_word": "pho hieu truong",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "vice-principal",
+            "tl_en": "Noun"
+        },
+        {
+            "word": "Ô-lim-píc",
+            "_word": "o-lim-pic",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Olympic",
+            "tl_en": "Adjective"
+        },
+        {
+            "word": "số La Mã (Toán học)",
+            "_word": "so la ma (toan hoc)",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Roman numerals",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "quan hệ từ",
+            "_word": "quan he tu",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "conjunction",
+            "tl_en": "Noun"
+        },
+        {
+            "word": "yêu nước Việt Nam",
+            "_word": "yeu nuoc viet nam",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "patriotic",
+            "tl_en": "Adjective"
+        },
+        {
+            "word": "nhổ lông mày",
+            "_word": "nho long may",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "pluck eyebrows",
+            "tl_en": "Verb Phrase"
+        },
+        {
+            "word": "giãn cách xã hội",
+            "_word": "gian cach xa hoi",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "social distancing",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "trong khoảng",
+            "_word": "trong khoang",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "around",
+            "tl_en": "Preposition"
+        },
+        {
+            "word": "nhảy bao bố",
+            "_word": "nhay bao bo",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "sack race",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "nhảy lò cò",
+            "_word": "nhay lo co",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "hopscotch",
+            "tl_en": "Noun"
+        },
+        {
+            "word": "lớn hơn 1 (Toán học)",
+            "_word": "lon hon 1 (toan hoc)",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "greater than 1",
+            "tl_en": "Mathematical Expression"
+        },
+        {
+            "word": "lớn hơn 2 (Toán học)",
+            "_word": "lon hon 2 (toan hoc)",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "greater than 2",
+            "tl_en": "Mathematical Expression"
+        },
+        {
+            "word": "thống nhất đất nước",
+            "_word": "thong nhat dat nuoc",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "national reunification",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "thâm quầng mắt",
+            "_word": "tham quang mat",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "dark circles (under eyes)",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "tuần trăng mật",
+            "_word": "tuan trang mat",
+            "description": "Chuyến du lịch mà đôi vợ chồng mới kết hôn dành cho nhau ngay sau lễ cưới của mình trong sự thân mật và riêng tư.",
+            "tl": "Cụm từ",
+            "word_en": "honeymoon",
+            "tl_en": "Noun"
+        },
+        {
+            "word": "phẫu thuật tay",
+            "_word": "phau thuat tay",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "hand surgery",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "phẫu thuật chân",
+            "_word": "phau thuat chan",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "leg surgery",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "phẫu thuật mắt",
+            "_word": "phau thuat mat",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "eye surgery",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "phẫu thuật mũi",
+            "_word": "phau thuat mui",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "nose surgery",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "phẫu thuật cổ",
+            "_word": "phau thuat co",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "neck surgery",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "phẫu thuật bụng",
+            "_word": "phau thuat bung",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "abdominal surgery",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "đói không?",
+            "_word": "doi khong?",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "hungry?",
+            "tl_en": "Tag Question"
+        },
+        {
+            "word": "nước ép trái cây",
+            "_word": "nuoc ep trai cay",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "fruit juice",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "một tiết học",
+            "_word": "mot tiet hoc",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "a class period",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "một tiếng",
+            "_word": "mot tieng",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "an hour",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "tuần này",
+            "_word": "tuan nay",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "this week",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "tuần sau",
+            "_word": "tuan sau",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "next week",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "tuần trước",
+            "_word": "tuan truoc",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "last week",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "sinh đôi",
+            "_word": "sinh doi",
+            "description": "Sinh ra trong cùng một lần, thành một đôi.",
+            "tl": "Cụm từ",
+            "word_en": "twins",
+            "tl_en": "Noun"
+        },
+        {
+            "word": "tay chân sạch sẽ",
+            "_word": "tay chan sach se",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "clean hands and feet",
+            "tl_en": "Adjective Phrase"
+        },
+        {
+            "word": "dòng sông chảy",
+            "_word": "dong song chay",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "flowing river",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "nhà vệ sinh",
+            "_word": "nha ve sinh",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "toilet/ restroom",
+            "tl_en": "Noun"
+        },
+        {
+            "word": "Bãi biển Vũng Tàu",
+            "_word": "bai bien vung tau",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Vung Tau Beach",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "bao giờ?",
+            "_word": "bao gio?",
+            "description": "Khoảng thời gian nào đó chưa xác định, (thường dùng để hỏi).",
+            "tl": "Cụm từ",
+            "word_en": "when?",
+            "tl_en": "Interrogative Adverb"
+        },
+        {
+            "word": "bảo vệ môi trường",
+            "_word": "bao ve moi truong",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "environmental protection",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "bé loắt choắt",
+            "_word": "be loat choat",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "tiny and nimble",
+            "tl_en": "Adjective Phrase"
+        },
+        {
+            "word": "bím tóc đuôi sam",
+            "_word": "bim toc duoi sam",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "braid",
+            "tl_en": "Noun"
+        },
+        {
+            "word": "chăm sóc sức khỏe",
+            "_word": "cham soc suc khoe",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "healthcare",
+            "tl_en": "Noun"
+        },
+        {
+            "word": "chất độc màu da cam",
+            "_word": "chat doc mau da cam",
+            "description": "Chất độc ở dạng lỏng, có chứa dioxin, sánh như dầu, màu da cam, không tan trong nước, dễ xâm nhập qua lá và làm rối loạn hệ điều tiết sinh trưởng của cây, nguy hiểm đối với người.",
+            "tl": "Cụm từ",
+            "word_en": "Agent Orange",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "nước tới chân mới nhảy",
+            "_word": "nuoc toi chan moi nhay",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "wait until the last minute",
+            "tl_en": "Idiom"
+        },
+        {
+            "word": "chuyển đổi số đo",
+            "_word": "chuyen doi so do",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "unit conversion",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "diện tích toàn phần",
+            "_word": "dien tich toan phan",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "total surface area",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "diện tích xung quanh",
+            "_word": "dien tich xung quanh",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "lateral surface area",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "điểm ở giữa đoạn thẳng",
+            "_word": "diem o giua doan thang",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "midpoint",
+            "tl_en": "Noun"
+        },
+        {
+            "word": "đồ dùng dạy học",
+            "_word": "do dung day hoc",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "teaching aids",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "học giỏi",
+            "_word": "hoc gioi",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "studious",
+            "tl_en": "Adjective"
+        },
+        {
+            "word": "học sinh Miền Nam",
+            "_word": "hoc sinh mien nam",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Southern student",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "học trung bình",
+            "_word": "hoc trung binh",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "average student",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "học kém",
+            "_word": "hoc kem",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "poor student",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "học nhóm",
+            "_word": "hoc nhom",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "study group",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "khát nước",
+            "_word": "khat nuoc",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "thirsty",
+            "tl_en": "Adjective"
+        },
+        {
+            "word": "khỏi bệnh",
+            "_word": "khoi benh",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "recover from illness",
+            "tl_en": "Verb Phrase"
+        },
+        {
+            "word": "không thẳng hàng",
+            "_word": "khong thang hang",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "not aligned",
+            "tl_en": "Adjective Phrase"
+        },
+        {
+            "word": "không hiểu",
+            "_word": "khong hieu",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "don't understand",
+            "tl_en": "Verb Phrase"
+        },
+        {
+            "word": "lăng Bác Hồ",
+            "_word": "lang bac ho",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Ho Chi Minh Mausoleum",
+            "tl_en": "Proper Noun Phrase"
+        },
+        {
+            "word": "liền sau",
+            "_word": "lien sau",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "immediately after",
+            "tl_en": "Adverb Phrase"
+        },
+        {
+            "word": "liền trước",
+            "_word": "lien truoc",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "immediately before",
+            "tl_en": "Adverb Phrase"
+        },
+        {
+            "word": "luyện từ và câu",
+            "_word": "luyen tu va cau",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "vocabulary and grammar practice",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "lười học",
+            "_word": "luoi hoc",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "lazy to study",
+            "tl_en": "Adjective Phrase"
+        },
+        {
+            "word": "mặc quần áo",
+            "_word": "mac quan ao",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "get dressed",
+            "tl_en": "Verb Phrase"
+        },
+        {
+            "word": "mặt dài",
+            "_word": "mat dai",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "long face",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "mẫu số bé",
+            "_word": "mau so be",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "smaller denominator",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "mẫu số chung",
+            "_word": "mau so chung",
+            "description": "Bội số chung của các mẫu số của các phân số đã cho.",
+            "tl": "Cụm từ",
+            "word_en": "common denominator",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "mẫu số lớn",
+            "_word": "mau so lon",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "larger denominator",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "miền Bắc Việt Nam",
+            "_word": "mien bac viet nam",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "North Vietnam",
+            "tl_en": "Proper Noun Phrase"
+        },
+        {
+            "word": "miền Nam Việt Nam",
+            "_word": "mien nam viet nam",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "South Vietnam",
+            "tl_en": "Proper Noun Phrase"
+        },
+        {
+            "word": "Mặt trời mọc",
+            "_word": "mat troi moc",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Sunrise",
+            "tl_en": "Noun"
+        },
+        {
+            "word": "Mặt trời lặn",
+            "_word": "mat troi lan",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Sunset",
+            "tl_en": "Noun"
+        },
+        {
+            "word": "mồ côi cha mẹ",
+            "_word": "mo coi cha me",
+            "description": "Bị mất cha và mẹ khi còn bé dại.",
+            "tl": "Cụm từ",
+            "word_en": "orphaned",
+            "tl_en": "Adjective"
+        },
+        {
+            "word": "một cặp",
+            "_word": "mot cap",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "a pair",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "một đôi",
+            "_word": "mot doi",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "a couple",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "một mình",
+            "_word": "mot minh",
+            "description": "Chỉ một cá nhân mình, không cùng với ai.",
+            "tl": "Cụm từ",
+            "word_en": "alone",
+            "tl_en": "Adverb"
+        },
+        {
+            "word": "Nam bán cầu",
+            "_word": "nam ban cau",
+            "description": "Nửa Trái Đất, kể từ xích đạo đến Nam Cực.",
+            "tl": "Cụm từ",
+            "word_en": "Southern Hemisphere",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "ngày khai trường",
+            "_word": "ngay khai truong",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "school opening day",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "ngày Nhà giáo Việt nam",
+            "_word": "ngay nha giao viet nam",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Vietnamese Teachers' Day",
+            "tl_en": "Proper Noun Phrase"
+        },
+        {
+            "word": "ngày Quốc tế Lao động",
+            "_word": "ngay quoc te lao dong",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "International Labor Day",
+            "tl_en": "Proper Noun Phrase"
+        },
+        {
+            "word": "xâm hại tình dục",
+            "_word": "xam hai tinh duc",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "sexual abuse",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "nhân cách hoá",
+            "_word": "nhan cach hoa",
+            "description": "Gán cho loài vật hoặc vật vô tri hình dáng, tính cách hoặc ngôn gữ của con người (một biện pháp tu từ trong văn học).",
+            "tl": "Cụm từ",
+            "word_en": "personification",
+            "tl_en": "Noun"
+        },
+        {
+            "word": "nhổ củ cải",
+            "_word": "nho cu cai",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "pull up radishes",
+            "tl_en": "Verb Phrase"
+        },
+        {
+            "word": "như hình với bóng",
+            "_word": "nhu hinh voi bong",
+            "description": "Ví cảnh luôn luôn ở bên nhau, không lúc nào rời.",
+            "tl": "Cụm từ",
+            "word_en": "inseparable",
+            "tl_en": "Adjective"
+        },
+        {
+            "word": "nổ lốp xe",
+            "_word": "no lop xe",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "flat tire",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "nước Việt nam",
+            "_word": "nuoc viet nam",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Vietnam",
+            "tl_en": "Proper Noun"
+        },
+        {
+            "word": "ở ngoài",
+            "_word": "o ngoai",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "outside",
+            "tl_en": "Adverb"
+        },
+        {
+            "word": "ở trong",
+            "_word": "o trong",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "inside",
+            "tl_en": "Adverb"
+        },
+        {
+            "word": "hai phân số bằng nhau",
+            "_word": "hai phan so bang nhau",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "two equal fractions",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "phân số thập phân",
+            "_word": "phan so thap phan",
+            "description": "Các phân số có mẫu số là một luỹ thừa của 10.",
+            "tl": "Cụm từ",
+            "word_en": "decimal fraction",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "phân số tối giản",
+            "_word": "phan so toi gian",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "simplified fraction",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "phim hoạt hình",
+            "_word": "phim hoat hinh",
+            "description": "Phim quay từng hình vẽ, hình cắt giấy, động tác của búp bê, con rối, v.v. và khi chiếu với tốc độ 24 hình/giây sẽ tạo được cảm giác các nhân vật đang hoạt động.",
+            "tl": "Cụm từ",
+            "word_en": "animated film",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "phim tài liệu",
+            "_word": "phim tai lieu",
+            "description": "Phim chuyên ghi lại những hình ảnh, sự kiện có thật nhằm phản ánh hiện thực cuộc sống.",
+            "tl": "Cụm từ",
+            "word_en": "documentary film",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "phòng âm nhạc",
+            "_word": "phong am nhac",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "music room",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "phòng chức năng",
+            "_word": "phong chuc nang",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "function room",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "phòng đa năng",
+            "_word": "phong da nang",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "multi-purpose room",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "phòng học tin học",
+            "_word": "phong hoc tin hoc",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "computer lab",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "phòng máy tính",
+            "_word": "phong may tinh",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "computer room",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "phố cổ Hội an",
+            "_word": "pho co hoi an",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "Hoi An Ancient Town",
+            "tl_en": "Proper Noun Phrase"
+        },
+        {
+            "word": "phương tiện giao thông",
+            "_word": "phuong tien giao thong",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "means of transportation",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "quy đồng mẫu số",
+            "_word": "quy dong mau so",
+            "description": "Làm cho các mẫu số bằng nhau mà không thay đổi giá trị của các phân số.",
+            "tl": "Cụm từ",
+            "word_en": "find a common denominator",
+            "tl_en": "Verb Phrase"
+        },
+        {
+            "word": "rạp chiếu phim",
+            "_word": "rap chieu phim",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "cinema",
+            "tl_en": "Noun"
+        },
+        {
+            "word": "tên là gì?",
+            "_word": "ten la gi?",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "what's your name?",
+            "tl_en": "Interrogative Sentence"
+        },
+        {
+            "word": "tỉ số phần trăm",
+            "_word": "ti so phan tram",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "percentage",
+            "tl_en": "Noun"
+        },
+        {
+            "word": "tính chất bằng nhau",
+            "_word": "tinh chat bang nhau",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "equality property",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "tính chất cơ bản của phân số",
+            "_word": "tinh chat co ban cua phan so",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "fundamental property of fractions",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "tính chất giao hoán",
+            "_word": "tinh chat giao hoan",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "commutative property",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "tính chất kết hợp",
+            "_word": "tinh chat ket hop",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "associative property",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "vệ sinh cá nhân",
+            "_word": "ve sinh ca nhan",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "personal hygiene",
+            "tl_en": "Noun Phrase"
+        },
+        {
+            "word": "xung quanh nhà",
+            "_word": "xung quanh nha",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "around the house",
+            "tl_en": "Prepositional Phrase"
+        },
+        {
+            "word": "ngôn ngữ kí hiệu",
+            "_word": "ngon ngu ki hieu",
+            "description": "",
+            "tl": "Cụm từ",
+            "word_en": "sign language",
+            "tl_en": "Noun Phrase"
+        }
+    ]
+}

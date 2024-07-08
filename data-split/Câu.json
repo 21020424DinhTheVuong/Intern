@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "word": "bạn yêu tôi",
+            "_word": "ban yeu toi",
+            "description": "",
+            "tl": "Câu"
+        },
+        {
+            "word": "bạn ấy yêu tôi",
+            "_word": "ban ay yeu toi",
+            "description": "",
+            "tl": "Câu"
+        },
+        {
+            "word": "bạn yêu bạn ấy",
+            "_word": "ban yeu ban ay",
+            "description": "",
+            "tl": "Câu"
+        },
+        {
+            "word": "bạn ấy yêu bạn",
+            "_word": "ban ay yeu ban",
+            "description": "",
+            "tl": "Câu"
+        },
+        {
+            "word": "đất nước bị chia cắt (Việt Nam)",
+            "_word": "dat nuoc bi chia cat (viet nam)",
+            "description": "",
+            "tl": "Câu"
+        }
+    ]
+}

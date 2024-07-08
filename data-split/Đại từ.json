@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "word": "kia",
+            "_word": "kia",
+            "description": "Từ dùng để chỉ một sự vật, địa điểm, hiện tượng ở xa vị trí của người nói, nhưng trong phạm vi có thể nhìn thấy cụ thể.",
+            "tl": "Đại từ",
+            "word_en": "that",
+            "tl_en": "Demonstrative Pronoun"
+        },
+        {
+            "word": "chúng tôi (2 người) (đại từ)",
+            "_word": "chung toi (2 nguoi) (dai tu)",
+            "description": "Chỉ hai người ở ngôi thứ 3 số nhiều.",
+            "tl": "Đại từ",
+            "word_en": "we (2 people)",
+            "tl_en": "Personal Pronoun"
+        },
+        {
+            "word": "chúng tôi (3 người) (đại từ)",
+            "_word": "chung toi (3 nguoi) (dai tu)",
+            "description": "Chỉ ba người ở ngôi thứ 3 số nhiều.",
+            "tl": "Đại từ",
+            "word_en": "we (3 people)",
+            "tl_en": "Personal Pronoun"
+        },
+        {
+            "word": "chúng tôi (4 người) (đại từ)",
+            "_word": "chung toi (4 nguoi) (dai tu)",
+            "description": "Chỉ bốn người ở ngôi thứ 3 số nhiều.",
+            "tl": "Đại từ",
+            "word_en": "we (4 people)",
+            "tl_en": "Personal Pronoun"
+        },
+        {
+            "word": "chúng tôi (5 người) (đại từ)",
+            "_word": "chung toi (5 nguoi) (dai tu)",
+            "description": "Chỉ năm người ở ngôi thứ 3 số nhiều.",
+            "tl": "Đại từ",
+            "word_en": "we (5 people)",
+            "tl_en": "Personal Pronoun"
+        },
+        {
+            "word": "chúng tôi (đại từ)",
+            "_word": "chung toi (dai tu)",
+            "description": "Tổ hợp dùng để nhân danh một số người mà tự xưng.",
+            "tl": "Đại từ",
+            "word_en": "we",
+            "tl_en": "Personal Pronoun"
+        },
+        {
+            "word": "các bạn (2 người) ",
+            "_word": "cac ban (2 nguoi) ",
+            "description": "",
+            "tl": "Đại từ",
+            "word_en": "you (2 people)",
+            "tl_en": "Personal Pronoun"
+        },
+        {
+            "word": "họ (2 người) (đại từ)",
+            "_word": "ho (2 nguoi) (dai tu)",
+            "description": "",
+            "tl": "Đại từ",
+            "word_en": "they (2 people)",
+            "tl_en": "Personal Pronoun"
+        },
+        {
+            "word": "họ (đại từ)",
+            "_word": "ho (dai tu)",
+            "description": "",
+            "tl": "Đại từ",
+            "word_en": "they",
+            "tl_en": "Personal Pronoun"
+        },
+        {
+            "word": "ai",
+            "_word": "ai",
+            "description": "Từ dùng để nói về người nào đó, không rõ. ",
+            "tl": "Đại từ",
+            "word_en": "who",
+            "tl_en": "Interrogative Pronoun"
+        },
+        {
+            "word": "bao nhiêu?",
+            "_word": "bao nhieu?",
+            "description": "Số lượng không rõ nhiều hay ít (thường dùng để hỏi).",
+            "tl": "Đại từ",
+            "word_en": "how many?",
+            "tl_en": "Interrogative Pronoun"
+        },
+        {
+            "word": "các bạn",
+            "_word": "cac ban",
+            "description": "",
+            "tl": "Đại từ",
+            "word_en": "you",
+            "tl_en": "Personal Pronoun"
+        },
+        {
+            "word": "là gì?",
+            "_word": "la gi?",
+            "description": "",
+            "tl": "Đại từ",
+            "word_en": "what?",
+            "tl_en": "Interrogative Pronoun"
+        },
+        {
+            "word": "mấy giờ?",
+            "_word": "may gio?",
+            "description": "",
+            "tl": "Đại từ",
+            "word_en": "what time?",
+            "tl_en": "Interrogative Phrase"
+        },
+        {
+            "word": "thế nào?",
+            "_word": "the nao?",
+            "description": "Tổ hợp biểu thị có một điều muốn hỏi.",
+            "tl": "Đại từ",
+            "word_en": "how?",
+            "tl_en": "Interrogative Adverb"
+        }
+    ]
+}
