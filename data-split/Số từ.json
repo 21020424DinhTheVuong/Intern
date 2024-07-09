@@ -1,20 +1,12 @@
 {
     "data": [
         {
-            "word": "suýt",
-            "_word": "suyt",
-            "description": "Chỉ còn thiếu chút nữa là đã xảy ra (thường là điều không hay).",
-            "tl": "Phụ từ",
-            "word_en": "almost",
-            "tl_en": "Adverb"
-        },
-        {
-            "word": "vẫn",
-            "_word": "van",
-            "description": "Từ biểu thị ý khẳng định về điều xảy ra, diễn ra như bình thường, cho dù điều kiện là không bình thường.",
-            "tl": "Phụ từ",
-            "word_en": "still",
-            "tl_en": "Adverb"
+            "word": "hai là",
+            "_word": "hai la",
+            "description": "",
+            "tl": "Số từ",
+            "word_en": "two is",
+            "tl_en": "Number"
         }
     ]
 }

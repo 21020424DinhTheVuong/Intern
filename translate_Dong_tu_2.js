@@ -51,6 +51,7 @@ async function run() {
         // See https://ai.google.dev/gemini-api/docs/safety-settings
     });
     console.log(JSON.parse(result.response.text()));
+
 }
 
 run();
